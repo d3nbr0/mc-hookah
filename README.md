@@ -1,7 +1,5 @@
 # Hookah Plugin
 
-___
-
 Hookah is a plugin for the Minecraft server that adds hookahs to the game.
 Add a twist to your server, allowing players to enjoy the wonderful taste of tobacco
 
