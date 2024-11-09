@@ -1,0 +1,25 @@
+max-smoked: 5
+smoke-duration: 300
+damage: 1
+positive-effect-duration: 5
+negative-effect-duration: 10
+message-radius: 24
+
+limit-message: "§f[§eHookah§f] Вы §cперекурили §fкальян. Подождите немного, иначе вам станет плохо"
+
+puff-messages:
+  - "§f[§eHookah§f] §7{0} §fсделал(-а) сладкую тяжку"
+  - "§f[§eHookah§f] §7{0} §fразмазало после кальяна"
+  - "§f[§eHookah§f] §7{0} §fпустил(-а) колечки"
+  - "§f[§eHookah§f] §7{0} §fпустил(-а) колечки"
+  - "§f[§eHookah§f] §7{0} §fдал(-а) бархатную тяжечку"
+
+damage-messages:
+  - "§f[§eHookah§f] §c{0} §fпокашлял(-а) после кальяна"
+  - "§f[§eHookah§f] §c{0} §fпоплохело после тяжки"
+  - "§f[§eHookah§f] §c{0} §fперекурил(-а) кальян"
+  - "§f[§eHookah§f] §c{0} §fне оценил(-а) забивку"
+  - "§f[§eHookah§f] §c{0} §fчувствует гарик"
+
+die-messages:
+  - "§f[§eHookah§f] §c{0} §fпоймал(-а) никотиновый передоз и откинул(-а) ноги"

@@ -1,0 +1,11 @@
+name: hookah
+version: '1.0.0'
+main: org.jedels.hookah.Plugin
+api-version: '1.21'
+prefix: Hookah
+authors: [ Jedels Tech. ]
+description: A plugin that implements a hookah on the Minecraft server
+website: jedels.com
+permissions:
+  hookah.nonegative:
+    description: Allows you to smoke hookah without any negative consequences
